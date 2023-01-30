@@ -12,7 +12,7 @@ pip install pygame
 ## Running the game
 1. Clone the repository to your local system
 ```bash
-git clone https://github.com/oceanlord-jet/snakegame-4.py
+git clone https://github.com/oceanlord-jet/snakegame.py
 ```
 2.Change into the project directory:
 ```bash
@@ -20,7 +20,7 @@ cd Snake-game
 ```
 3.Run the `main.py` file:
 ```bash
-python snakegame-4.py
+python snakegame.py
 ```
 ## Playing the game
 - Use the arrow keys to control the movement of the snake
