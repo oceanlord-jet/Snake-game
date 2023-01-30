@@ -2,7 +2,7 @@
 This is an implementation of the classic snake game in python using the pygame library
 
 ## Prerequisites
-- Python 3 installed on your system
+- [Python 3](https://www.python.org/downloads/) installed on your system
 - Pygame library installed
 
 To install Pygame, run the following command in your terminal:
