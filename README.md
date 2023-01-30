@@ -18,7 +18,7 @@ git clone https://github.com/oceanlord-jet/Snake-game.git
 ```bash
 cd Snake-game
 ```
-3.Run the `main.py` file:
+3.Run the `snakegame.py` file:
 ```bash
 python snakegame.py
 ```
