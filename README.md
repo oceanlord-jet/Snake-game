@@ -12,7 +12,7 @@ pip install pygame
 ## Running the game
 1. Clone the repository to your local system
 ```bash
-git clone https://github.com/oceanlord-jet/snakegame-4.git
+git clone https://github.com/oceanlord-jet/snakegame-4.py
 ```
 2.Change into the project directory:
 ```bash
