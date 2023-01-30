@@ -16,11 +16,11 @@ git clone https://github.com/oceanlord-jet/snakegame-4.py
 ```
 2.Change into the project directory:
 ```bash
-cd snakegame-4
+cd Snake-game
 ```
 3.Run the `main.py` file:
 ```bash
-python main.py
+python snakegame-4.py
 ```
 ## Playing the game
 - Use the arrow keys to control the movement of the snake
