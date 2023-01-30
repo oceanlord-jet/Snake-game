@@ -1,5 +1,5 @@
 # Snake-game
-this is an implementation of the classic snake game in python using the pygame library
+This is an implementation of the classic snake game in python using the pygame library
 
 ## Prerequisites
 - Python 3 installed on your system
