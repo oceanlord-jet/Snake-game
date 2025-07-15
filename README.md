@@ -25,7 +25,7 @@ Originally forked from [repo link](https://github.com/oceanlord-jet/Snake-game),
 - Pygame library
 
 
-## ▶How to Run
+## How to Run
 
 1. Install [Python 3](https://www.python.org/downloads/) on your system.
 2. Install Pygame:
