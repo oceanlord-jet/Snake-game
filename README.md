@@ -1,33 +1,34 @@
-# Snake-game
-classic snake game implemented in python
-## Prerequisites
-- [Python 3](https://www.python.org/downloads/) installed on your system
-- Pygame library installed
+# Snake Game (Improved)
 
-To install Pygame, run the following command in your terminal:
-```bash
-pip install pygame
-```
-## Running the game
-1. Clone the repository to your local system
-```bash
-git clone https://github.com/oceanlord-jet/Snake-game.git
-```
-2.Change into the project directory:
-```bash
-cd Snake-game
-```
-3.Run the `snakegame.py` file:
-```bash
-python snakegame.py
-```
-## Playing the game
-- Use the arrow keys to control the movement of the snake
-- The objective of the game is to eat as many apples as possible without hitting the walls 
-- If the snake hits a wall , the game is over
-- The game has a splash screen with a start button to start the game 
-- The score is displayed on the title bar
-## Feature roadmap
-- Length of snake increasing as it eats the apple
-- implementation of a restart button
-- scoreboard to keep track of your previous scores
+This is a classic Snake Game built with Python and Pygame.  
+Originally forked from [repo link](https://github.com/oceanlord-jet/Snake-game), with additional features and improvements implemented.
+
+
+## 🎮 Features
+
+- Snake movement controlled with arrow keys
+- Food spawns at random positions
+- Score displayed live on the top of the screen
+- Game Over screen with final score
+
+
+## ✅ Improvements in this fork
+
+- ✅ **Snake growth:** The snake now increases in length each time it eats an apple.
+- ✅ **Self‑collision detection:** The game ends if the snake collides with its own body.
+- ✅ **Score display:** Live score is rendered on the screen during gameplay.
+
+
+## 🛠️ Tech Stack
+
+- Python 3
+- Pygame library
+
+
+## ▶️ How to Run
+
+1. Install [Python 3](https://www.python.org/downloads/) on your system.
+2. Install Pygame:
+   ```
+   pip install pygame
+   ```
