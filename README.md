@@ -19,7 +19,7 @@ Originally forked from [repo link](https://github.com/oceanlord-jet/Snake-game),
 - **Score display:** Live score is rendered on the screen during gameplay.
 
 
-## 🛠Tech Stack
+## Tech Stack
 
 - Python 3
 - Pygame library
