@@ -19,7 +19,7 @@ cd Snake-game
 ```
 3.Run the `snakegame.py` file:
 ```bash
-python snakegame.py
+python snakegame_updated.py
 ```
 ## Playing the game
 - Use the arrow keys to control the movement of the snake
